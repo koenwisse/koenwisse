@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koenwisse
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React and Redux
 - 💞️ I’m looking to collaborate on fun Fintech projects
 - 📫 How to reach me 
 
