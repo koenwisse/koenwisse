@@ -1,10 +1,9 @@
+
+
 - 👋 Hi, I’m @koenwisse
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning React and Redux
-- 💞️ I’m looking to collaborate on fun Fintech projects
+- 👀 I’m interested in Fintech and Blockchain Projects
+- 🌱 I’m currently further exploring React / Redux
+- 💞️ I’m looking to collaborate on cool Fintech projects that could grow towards a real business
 - 📫 How to reach me 
 
-<!---
-koenwisse/koenwisse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
