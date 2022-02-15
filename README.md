@@ -1,6 +1,9 @@
 :wave: Hi, I’m @koenwisse
+
 :dolphin: I’m interested in Fintech and Blockchain Projects
+
 :raised_hands: I’m looking to collaborate on cool Fintech projects that could grow towards a real business
+
 :envelope: How to reach me:
 Linkedin: www.linkedin.com/in/koenwisse/
 Discord: Koen Wisse#1087
