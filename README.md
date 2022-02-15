@@ -3,7 +3,7 @@
 🌱 I’m currently further exploring React / Redux
 💞️ I’m looking to collaborate on cool Fintech projects that could grow towards a real business
 📫 How to reach me:
-<a href=”https://www.linkedin.com/in/koenwisse/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>https://www.linkedin.com/in/koenwisse 
 
 - Full Stack Developer / Seasoned Fintech Professional
 
