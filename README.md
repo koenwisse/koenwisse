@@ -8,7 +8,7 @@
 Linkedin: www.linkedin.com/in/koenwisse/
 Discord: Koen Wisse#1087
 
-:hammer_and_wrench: HTML5, CSS3, Javascript (ES6), React + Redux, NodeJS, Express, Rest API, Sequelize, PostGreSQL, Lean Startup, Scrum / Agile, Getting Things Done
+:hammer_and_wrench: HTML5, CSS3, Javascript (ES6), React + Redux, NodeJS, Express, Rest API, Sequelize, PostGreSQL, Lean Startup, Scrum / Agile, Getting Things Done, Next.js
 
 :hearts: Software development, Entrepreneurial mind and work ethic, Fintech, Equity and Debt Crowdfunding, Digital Transformation, Blockchain & Crypto, SME's, Startups, Scaleups, Self Storage, Sharing Platforms, Netsuite Implementations and Suiteapps Development
 
